@@ -2,11 +2,11 @@ import requests
 import json
 # 以下为所需的数据，注意引号别删了
 # 必填 团委组织ID号，详见README
-nid = "N00"
+nid = "N0013001510021038"
 # 非必填，社区（村）/班级/单位（部门），详见README
 subOrg = ""
 # 必填 姓名/学号/工号
-cardNo = ""
+cardNo = "2020100977"
 
 
 def checkConfig():
